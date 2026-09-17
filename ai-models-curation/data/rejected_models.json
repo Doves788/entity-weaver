@@ -1,0 +1,1991 @@
+[
+  {
+    "canonical_name": "OpenAI: GPT-6 Astra Pro",
+    "provider_company": "openai",
+    "context_window": 1050000,
+    "pipeline_tag": null,
+    "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-6 Astra Pro by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-6 Astra Pro (batch)",
+    "provider_company": "openai",
+    "context_window": 1050000,
+    "pipeline_tag": null,
+    "description": "GPT-6 Astra Pro is the same underlying model as [GPT-6 Astra](https://openrouter.ai/openai/gpt-6-astra), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-6 Astra Pro (batch) by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Tencent: Hy4 preview",
+    "provider_company": "tencent",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "Tencent: Hy4 preview is a mixture-of-experts model from Tencent, with 49B active parameters out of 770B total. It is designed for coding agents, complex tool-use workflows, and productivity tasks that...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.tencent.com",
+    "official_logo_url": "https://icon.horse/icon/tencent.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Tencent: Hy4 preview by tencent is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Tencent: Hy-MT2-30B-A3B",
+    "provider_company": "tencent",
+    "context_window": 8192,
+    "pipeline_tag": null,
+    "description": "Hy-MT2-30B-A3B is Tencent's flagship translation model in the Hy-MT2 family. It supports 33 language pairs and five Chinese dialect and minority-language pairs, with workflows for structured, delimiter-based, contextual, glossary-based, and...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.tencent.com",
+    "official_logo_url": "https://icon.horse/icon/tencent.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Tencent: Hy-MT2-30B-A3B by tencent is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Z.ai: GLM Latest",
+    "provider_company": "~z-ai",
+    "context_window": 1310720,
+    "pipeline_tag": null,
+    "description": "This model always redirects to the latest GLM model from Z.ai.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.zai.com",
+    "official_logo_url": "https://icon.horse/icon/zai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Z.ai: GLM Latest by ~z-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Dots Studio: Dots3-Note Preview (free)",
+    "provider_company": "dots-studio",
+    "context_window": 512000,
+    "pipeline_tag": null,
+    "description": "Dots3-Note Preview is an open-weight mixture-of-experts model from Dots Studio, with 16B active parameters out of 280B total. It is the lightest model in the Dots 3 family and is...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.dotsstudio.com",
+    "official_logo_url": "https://icon.horse/icon/dotsstudio.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Dots Studio: Dots3-Note Preview (free) by dots-studio is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Google: Gemini 3.7 Flash (batch)",
+    "provider_company": "google",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "Gemini 3.7 Flash is a multimodal model from Google for fast agentic workflows, coding, and complex multi-step reasoning. It is designed for tasks that require responsive performance and reliable multi-step...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.google.com",
+    "official_logo_url": "https://icon.horse/icon/google.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Google: Gemini 3.7 Flash (batch) by google is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "NVIDIA: Nemotron 3.5 Lightning",
+    "provider_company": "nvidia",
+    "context_window": 262144,
+    "pipeline_tag": null,
+    "description": "NVIDIA Nemotron 3.5 Lightning is an open mixture-of-experts model from NVIDIA, with 3B active parameters out of 30B total. It is suited for high-throughput agentic workloads and specialized tasks that...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.nvidia.com",
+    "official_logo_url": "https://icon.horse/icon/nvidia.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The NVIDIA: Nemotron 3.5 Lightning by nvidia is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Thinking Machines: Inkling Small",
+    "provider_company": "thinkingmachines",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "Inkling Small is an open-weight multimodal mixture-of-experts model from Thinking Machines Lab, with 12B active parameters out of 276B total. It is positioned as the smaller, more efficient member of...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.thinkingmachines.com",
+    "official_logo_url": "https://icon.horse/icon/thinkingmachines.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Thinking Machines: Inkling Small by thinkingmachines is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen3.7 Flash",
+    "provider_company": "qwen",
+    "context_window": 1000000,
+    "pipeline_tag": null,
+    "description": "Qwen3.7 Flash is a vision-language reasoning model from Alibaba. It is suited for multimodal agents, visual coding, search, and computer interaction, with strengths in object recognition, spatial understanding, and real-world...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen3.7 Flash by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "MoonshotAI: Kimi K3 (batch)",
+    "provider_company": "moonshotai",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "Kimi K3 is a 2.8T parameter open-weight multimodal reasoning model from Moonshot AI. It is suited for complex coding, knowledge work, and long-horizon agentic workflows, and is particularly strong at...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.moonshotai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The MoonshotAI: Kimi K3 (batch) by moonshotai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5.6 Luna Pro",
+    "provider_company": "openai",
+    "context_window": 1050000,
+    "pipeline_tag": null,
+    "description": "GPT-5.6 Luna Pro is the same underlying model as [GPT-5.6 Luna](https://openrouter.ai/openai/gpt-5.6-luna), served with `reasoning.mode` set to `pro` for higher-quality responses on complex tasks.\n\nLearn more in OpenAI's docs: https://developers.openai.com/api/docs/guides/reasoning#reasoning-mode",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5.6 Luna Pro by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "xAI: Grok Latest",
+    "provider_company": "~x-ai",
+    "context_window": 500000,
+    "pipeline_tag": null,
+    "description": "This model always redirects to the latest Grok model from xAI.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.xai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The xAI: Grok Latest by ~x-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "AionLabs: Aion-3.0-Mini",
+    "provider_company": "aion-labs",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "Aion-3.0 Mini is a multi-model roleplaying and storytelling system from AionLabs, built on the DeepSeek family of models. It uses a collaborative generation process in which multiple specialized models each...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.aionlabs.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The AionLabs: Aion-3.0-Mini by aion-labs is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Google: Nano Banana 2 (Gemini 3.1 Flash Image)",
+    "provider_company": "google",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "Gemini 3.1 Flash Image, a.k.a. \"Nano Banana 2,\" is Google’s latest state of the art image generation and editing model, delivering Pro-level visual quality at Flash speed. It combines advanced...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.google.com",
+    "official_logo_url": "https://icon.horse/icon/google.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Google: Nano Banana 2 (Gemini 3.1 Flash Image) by google is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "NVIDIA: Nemotron 3.5 Content Safety",
+    "provider_company": "nvidia",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "NVIDIA Nemotron 3.5 Content Safety is a compact 4B-parameter multimodal guardrail model from NVIDIA, fine-tuned from Google Gemma-3-4B. It moderates both inputs to and responses from LLMs and VLMs, accepting...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.nvidia.com",
+    "official_logo_url": "https://icon.horse/icon/nvidia.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The NVIDIA: Nemotron 3.5 Content Safety by nvidia is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "MiniMax: MiniMax M3",
+    "provider_company": "minimax",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "MiniMax-M3 is a multimodal foundation model from MiniMax. It supports text, image, and video inputs with text output, a 1M-token context window, and is suited for long-horizon agentic work, coding,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.minimax.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The MiniMax: MiniMax M3 by minimax is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "SpaceXAI: Grok 4.3",
+    "provider_company": "x-ai",
+    "context_window": 1000000,
+    "pipeline_tag": null,
+    "description": "Grok 4.3 is a reasoning model from SpaceXAI. It accepts text and image inputs with text output, and is suited for agentic workflows, instruction-following tasks, and applications requiring high factual...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.xai.com",
+    "official_logo_url": "https://icon.horse/icon/xai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The SpaceXAI: Grok 4.3 by x-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Anthropic: Claude Haiku Latest",
+    "provider_company": "~anthropic",
+    "context_window": 200000,
+    "pipeline_tag": null,
+    "description": "This model always redirects to the latest model in the Claude Haiku family.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.anthropic.com",
+    "official_logo_url": "https://icon.horse/icon/anthropic.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Anthropic: Claude Haiku Latest by ~anthropic is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "MoonshotAI: Kimi Latest",
+    "provider_company": "~moonshotai",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "This model always redirects to the latest model in the Kimi family.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.moonshotai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The MoonshotAI: Kimi Latest by ~moonshotai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen3.5 Plus 2026-04-20",
+    "provider_company": "qwen",
+    "context_window": 1000000,
+    "pipeline_tag": null,
+    "description": "Qwen3.5 Plus (April 2026) is a large-scale multimodal language model from Alibaba. It accepts text, image, and video input and produces text output, with a 1M token context window. This...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen3.5 Plus 2026-04-20 by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5.5 Pro",
+    "provider_company": "openai",
+    "context_window": 1050000,
+    "pipeline_tag": null,
+    "description": "GPT-5.5 Pro is OpenAI’s high-capability model optimized for deep reasoning and accuracy on complex, high-stakes workloads. It features a 1M+ token context window (922K input, 128K output) with support for...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5.5 Pro by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "DeepSeek: DeepSeek V4 Flash 0423",
+    "provider_company": "deepseek",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "DeepSeek V4 Flash is an efficiency-optimized Mixture-of-Experts model from DeepSeek with 284B total parameters and 13B activated parameters, supporting a 1M-token context window. It is designed for fast inference and...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.deepseek.com",
+    "official_logo_url": "https://icon.horse/icon/deepseek.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The DeepSeek: DeepSeek V4 Flash 0423 by deepseek is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "MoonshotAI: Kimi K2.6",
+    "provider_company": "moonshotai",
+    "context_window": 262144,
+    "pipeline_tag": null,
+    "description": "Kimi K2.6 is Moonshot AI's next-generation multimodal model, designed for long-horizon coding, coding-driven UI/UX generation, and multi-agent orchestration. It handles complex end-to-end coding tasks across Python, Rust, and Go, and...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.moonshotai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The MoonshotAI: Kimi K2.6 by moonshotai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Z.ai: GLM 5V Turbo",
+    "provider_company": "z-ai",
+    "context_window": 202752,
+    "pipeline_tag": null,
+    "description": "GLM-5V-Turbo is Z.ai’s first native multimodal agent foundation model, built for vision-based coding and agent-driven tasks. It natively handles image, video, and text inputs, excels at long-horizon planning, complex coding,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.zai.com",
+    "official_logo_url": "https://icon.horse/icon/zai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Z.ai: GLM 5V Turbo by z-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "SpaceXAI: Grok 4.20",
+    "provider_company": "x-ai",
+    "context_window": 2000000,
+    "pipeline_tag": null,
+    "description": "Grok 4.20 is a reasoning model from SpaceXAI with industry-leading speed and agentic tool calling capabilities. It combines the lowest hallucination rate on the market with strict prompt adherance, delivering...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.xai.com",
+    "official_logo_url": "https://icon.horse/icon/xai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The SpaceXAI: Grok 4.20 by x-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Kwaipilot: KAT-Coder-Pro V2",
+    "provider_company": "kwaipilot",
+    "context_window": 262144,
+    "pipeline_tag": null,
+    "description": "KAT-Coder-Pro V2 is the latest high-performance model in KwaiKAT’s KAT-Coder series, designed for complex enterprise-grade software engineering and SaaS integration. It builds on the agentic coding strengths of earlier versions,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.kwaipilot.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Kwaipilot: KAT-Coder-Pro V2 by kwaipilot is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5.4 Nano (batch)",
+    "provider_company": "openai",
+    "context_window": 400000,
+    "pipeline_tag": null,
+    "description": "GPT-5.4 nano is the most lightweight and cost-efficient variant of the GPT-5.4 family, optimized for speed-critical and high-volume tasks. It supports text and image inputs and is designed for low-latency...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5.4 Nano (batch) by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5.3-Codex",
+    "provider_company": "openai",
+    "context_window": 400000,
+    "pipeline_tag": null,
+    "description": "GPT-5.3-Codex is OpenAI’s most advanced agentic coding model, combining the frontier software engineering performance of GPT-5.2-Codex with the broader reasoning and professional knowledge capabilities of GPT-5.2. It achieves state-of-the-art results...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5.3-Codex by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen3 Max Thinking",
+    "provider_company": "qwen",
+    "context_window": 262144,
+    "pipeline_tag": null,
+    "description": "Qwen3-Max-Thinking is the flagship reasoning model in the Qwen3 series, designed for high-stakes cognitive tasks that require deep, multi-step reasoning. By significantly scaling model capacity and reinforcement learning compute, it...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen3 Max Thinking by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT Audio",
+    "provider_company": "openai",
+    "context_window": 128000,
+    "pipeline_tag": null,
+    "description": "The gpt-audio model is OpenAI's first generally available audio model. The new snapshot features an upgraded decoder for more natural sounding voices and maintains better voice consistency. Audio is priced...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT Audio by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5.2 Pro (batch)",
+    "provider_company": "openai",
+    "context_window": 400000,
+    "pipeline_tag": null,
+    "description": "GPT-5.2 Pro is OpenAI’s most advanced model, offering major improvements in agentic coding and long context performance over GPT-5 Pro. It is optimized for complex tasks that require step-by-step reasoning,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5.2 Pro (batch) by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Body Builder (beta)",
+    "provider_company": "openrouter",
+    "context_window": 128000,
+    "pipeline_tag": null,
+    "description": "Transform your natural language requests into structured OpenRouter API request objects. Describe what you want to accomplish with AI models, and Body Builder will construct the appropriate API calls. Example:...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openrouter.com",
+    "official_logo_url": "https://icon.horse/icon/openrouter.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Body Builder (beta) by openrouter is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Mistral: Ministral 3 8B 2512 (batch)",
+    "provider_company": "mistralai",
+    "context_window": 262144,
+    "pipeline_tag": null,
+    "description": "A balanced model in the Ministral 3 family, Ministral 3 8B is a powerful, efficient tiny language model with vision capabilities.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.mistral.ai",
+    "official_logo_url": "https://icon.horse/icon/mistral.ai",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Mistral: Ministral 3 8B 2512 (batch) by mistralai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "DeepSeek: DeepSeek V3.2",
+    "provider_company": "deepseek",
+    "context_window": 163840,
+    "pipeline_tag": null,
+    "description": "DeepSeek-V3.2 is a large language model designed to harmonize high computational efficiency with strong reasoning and agentic tool-use performance. It introduces DeepSeek Sparse Attention (DSA), a fine-grained sparse attention mechanism...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.deepseek.com",
+    "official_logo_url": "https://icon.horse/icon/deepseek.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The DeepSeek: DeepSeek V3.2 by deepseek is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Anthropic: Claude Opus 4.5",
+    "provider_company": "anthropic",
+    "context_window": 200000,
+    "pipeline_tag": null,
+    "description": "Claude Opus 4.5 is Anthropic’s frontier reasoning model optimized for complex software engineering, agentic workflows, and long-horizon computer use. It offers strong multimodal capabilities, competitive performance across real-world coding and...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.anthropic.com",
+    "official_logo_url": "https://icon.horse/icon/anthropic.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Anthropic: Claude Opus 4.5 by anthropic is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Amazon: Nova Premier 1.0",
+    "provider_company": "amazon",
+    "context_window": 1000000,
+    "pipeline_tag": null,
+    "description": "Amazon Nova Premier is the most capable of Amazon’s multimodal models for complex reasoning tasks and for use as the best teacher for distilling custom models.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.amazon.com",
+    "official_logo_url": "https://icon.horse/icon/amazon.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Amazon: Nova Premier 1.0 by amazon is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen3 VL 32B Instruct",
+    "provider_company": "qwen",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "Qwen3-VL-32B-Instruct is a large-scale multimodal vision-language model designed for high-precision understanding and reasoning across text, images, and video. With 32 billion parameters, it combines deep visual perception with advanced text...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen3 VL 32B Instruct by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5 Image Mini",
+    "provider_company": "openai",
+    "context_window": 400000,
+    "pipeline_tag": null,
+    "description": "GPT-5 Image Mini combines OpenAI's advanced language capabilities, powered by [GPT-5 Mini](https://openrouter.ai/openai/gpt-5-mini), with GPT Image 1 Mini for efficient image generation. This natively multimodal model features superior instruction following, text...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5 Image Mini by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Anthropic: Claude Haiku 4.5",
+    "provider_company": "anthropic",
+    "context_window": 200000,
+    "pipeline_tag": null,
+    "description": "Claude Haiku 4.5 is Anthropic’s fastest and most efficient model, delivering near-frontier intelligence at a fraction of the cost and latency of larger Claude models. Matching Claude Sonnet 4’s performance...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.anthropic.com",
+    "official_logo_url": "https://icon.horse/icon/anthropic.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Anthropic: Claude Haiku 4.5 by anthropic is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+    "provider_company": "google",
+    "context_window": 32768,
+    "pipeline_tag": null,
+    "description": "Gemini 2.5 Flash Image, a.k.a. \"Nano Banana,\" is now generally available. It is a state of the art image generation model with contextual understanding. It is capable of image generation,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.google.com",
+    "official_logo_url": "https://icon.horse/icon/google.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Google: Nano Banana (Gemini 2.5 Flash Image) by google is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "DeepSeek: DeepSeek V3.1 Terminus",
+    "provider_company": "deepseek",
+    "context_window": 163840,
+    "pipeline_tag": null,
+    "description": "DeepSeek-V3.1 Terminus is an update to [DeepSeek V3.1](/deepseek/deepseek-chat-v3.1) that maintains the model's original capabilities while addressing issues reported by users, including language consistency and agent capabilities, further optimizing the model's...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.deepseek.com",
+    "official_logo_url": "https://icon.horse/icon/deepseek.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The DeepSeek: DeepSeek V3.1 Terminus by deepseek is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen Plus 0728",
+    "provider_company": "qwen",
+    "context_window": 1000000,
+    "pipeline_tag": null,
+    "description": "Qwen Plus 0728, based on the Qwen3 foundation model, is a 1 million context hybrid reasoning model with a balanced performance, speed, and cost combination.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen Plus 0728 by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Z.ai: GLM 4.5V",
+    "provider_company": "z-ai",
+    "context_window": 65536,
+    "pipeline_tag": null,
+    "description": "GLM-4.5V is a vision-language foundation model for multimodal agent applications. Built on a Mixture-of-Experts (MoE) architecture with 106B parameters and 12B activated parameters, it achieves state-of-the-art results in video understanding,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.zai.com",
+    "official_logo_url": "https://icon.horse/icon/zai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Z.ai: GLM 4.5V by z-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-5",
+    "provider_company": "openai",
+    "context_window": 400000,
+    "pipeline_tag": null,
+    "description": "GPT-5 is OpenAI’s most advanced model, offering major improvements in reasoning, code quality, and user experience. It is optimized for complex tasks that require step-by-step reasoning, instruction following, and accuracy...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-5 by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: gpt-oss-120b",
+    "provider_company": "openai",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "gpt-oss-120b is an open-weight, 117B-parameter Mixture-of-Experts (MoE) language model from OpenAI designed for high-reasoning, agentic, and general-purpose production use cases. It activates 5.1B parameters per forward pass and is optimized...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: gpt-oss-120b by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Z.ai: GLM 4.5",
+    "provider_company": "z-ai",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "GLM-4.5 is our latest flagship foundation model, purpose-built for agent-based applications. It leverages a Mixture-of-Experts (MoE) architecture and supports a context length of up to 128k tokens. GLM-4.5 delivers significantly...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.zai.com",
+    "official_logo_url": "https://icon.horse/icon/zai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Z.ai: GLM 4.5 by z-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Venice: Uncensored",
+    "provider_company": "cognitivecomputations",
+    "context_window": 128000,
+    "pipeline_tag": null,
+    "description": "Venice Uncensored Dolphin Mistral 24B Venice Edition is a fine-tuned variant of Mistral-Small-24B-Instruct-2501, developed by dphn.ai in collaboration with Venice.ai. This model is designed as an “uncensored” instruct-tuned LLM, preserving...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.cognitivecomputations.com",
+    "official_logo_url": "https://icon.horse/icon/cognitivecomputations.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Venice: Uncensored by cognitivecomputations is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Google: Gemini 2.5 Pro (batch)",
+    "provider_company": "google",
+    "context_window": 1048576,
+    "pipeline_tag": null,
+    "description": "Gemini 2.5 Pro is Google’s state-of-the-art AI model designed for advanced reasoning, coding, mathematics, and scientific tasks. It employs “thinking” capabilities, enabling it to reason through responses with enhanced accuracy...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.google.com",
+    "official_logo_url": "https://icon.horse/icon/google.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Google: Gemini 2.5 Pro (batch) by google is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Anthropic: Claude Opus 4",
+    "provider_company": "anthropic",
+    "context_window": 200000,
+    "pipeline_tag": null,
+    "description": "Claude Opus 4 is benchmarked as the world’s best coding model, at time of release, bringing sustained performance on complex, long-running tasks and agent workflows. It sets new benchmarks in...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.anthropic.com",
+    "official_logo_url": "https://icon.horse/icon/anthropic.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Anthropic: Claude Opus 4 by anthropic is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen3 235B A22B",
+    "provider_company": "qwen",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "Qwen3-235B-A22B is a 235B parameter mixture-of-experts (MoE) model developed by Qwen, activating 22B parameters per forward pass. It supports seamless switching between a \"thinking\" mode for complex reasoning, math, and...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen3 235B A22B by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-4.1",
+    "provider_company": "openai",
+    "context_window": 1047576,
+    "pipeline_tag": null,
+    "description": "GPT-4.1 is a flagship large language model optimized for advanced instruction following, real-world software engineering, and long-context reasoning. It supports a 1 million token context window and outperforms GPT-4o and...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-4.1 by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-4.1 Nano (batch)",
+    "provider_company": "openai",
+    "context_window": 1047576,
+    "pipeline_tag": null,
+    "description": "For tasks that demand low latency, GPT‑4.1 nano is the fastest and cheapest model in the GPT-4.1 series. It delivers exceptional performance at a small size with its 1 million...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-4.1 Nano (batch) by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Google: Gemma 3 12B",
+    "provider_company": "google",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 128k tokens, understands over 140 languages, and offers improved math, reasoning, and chat capabilities,...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.google.com",
+    "official_logo_url": "https://icon.horse/icon/google.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Google: Gemma 3 12B by google is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen: Qwen-Plus",
+    "provider_company": "qwen",
+    "context_window": 1000000,
+    "pipeline_tag": null,
+    "description": "Qwen-Plus, based on the Qwen2.5 foundation model, is a 131K context model with a balanced performance, speed, and cost combination.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen: Qwen-Plus by qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "MiniMax: MiniMax-01",
+    "provider_company": "minimax",
+    "context_window": 1000192,
+    "pipeline_tag": null,
+    "description": "MiniMax-01 is a combines MiniMax-Text-01 for text generation and MiniMax-VL-01 for image understanding. It has 456 billion parameters, with 45.9 billion parameters activated per inference, and can handle a context...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.minimax.com",
+    "official_logo_url": "https://icon.horse/icon/minimax.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The MiniMax: MiniMax-01 by minimax is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Amazon: Nova Pro 1.0",
+    "provider_company": "amazon",
+    "context_window": 300000,
+    "pipeline_tag": null,
+    "description": "Amazon Nova Pro 1.0 is a capable multimodal model from Amazon focused on providing a combination of accuracy, speed, and cost for a wide range of tasks. As of December...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.amazon.com",
+    "official_logo_url": "https://icon.horse/icon/amazon.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Amazon: Nova Pro 1.0 by amazon is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Mistral Large 2407",
+    "provider_company": "mistralai",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "This is Mistral AI's flagship model, Mistral Large 2 (version mistral-large-2407). It's a proprietary weights-available model and excels at reasoning, code, JSON, chat, and more. Read the launch announcement [here](https://mistral.ai/news/mistral-large-2407/)....",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.mistral.ai",
+    "official_logo_url": "https://icon.horse/icon/mistral.ai",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Mistral Large 2407 by mistralai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Nous: Hermes 3 405B Instruct",
+    "provider_company": "nousresearch",
+    "context_window": 131072,
+    "pipeline_tag": null,
+    "description": "Hermes 3 is a generalist language model with many improvements over Hermes 2, including advanced agentic capabilities, much better roleplaying, reasoning, multi-turn conversation, long context coherence, and improvements across the...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.nousresearch.com",
+    "official_logo_url": "https://icon.horse/icon/nousresearch.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Nous: Hermes 3 405B Instruct by nousresearch is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Google: Gemma 2 27B",
+    "provider_company": "google",
+    "context_window": 8192,
+    "pipeline_tag": null,
+    "description": "Gemma 2 27B by Google is an open model built from the same research and technology used to create the [Gemini models](/models?q=gemini). Gemma models are well-suited for a variety of...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.google.com",
+    "official_logo_url": "https://icon.horse/icon/google.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Google: Gemma 2 27B by google is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-4o (batch)",
+    "provider_company": "openai",
+    "context_window": 128000,
+    "pipeline_tag": null,
+    "description": "GPT-4o (\"o\" for \"omni\") is OpenAI's latest AI model, supporting both text and image inputs with text outputs. It maintains the intelligence level of [GPT-4 Turbo](/models/openai/gpt-4-turbo) while being twice as...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-4o (batch) by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "WizardLM-2 8x22B",
+    "provider_company": "microsoft",
+    "context_window": 65535,
+    "pipeline_tag": null,
+    "description": "WizardLM-2 8x22B is Microsoft AI's most advanced Wizard model. It demonstrates highly competitive performance compared to leading proprietary models, and it consistently outperforms all existing state-of-the-art opensource models. It is...",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.microsoft.com",
+    "official_logo_url": "https://icon.horse/icon/microsoft.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The WizardLM-2 8x22B by microsoft is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "OpenAI: GPT-4 Turbo",
+    "provider_company": "openai",
+    "context_window": 128000,
+    "pipeline_tag": null,
+    "description": "The latest GPT-4 Turbo model with vision capabilities. Vision requests can now use JSON mode and function calling.\n\nTraining data: up to December 2023.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The OpenAI: GPT-4 Turbo by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Mancer: Weaver (alpha)",
+    "provider_company": "mancer",
+    "context_window": 8000,
+    "pipeline_tag": null,
+    "description": "An attempt to recreate Claude-style verbosity, but don't expect the same level of coherence or memory. Meant for use in roleplay/narrative situations.",
+    "providers": [
+      "API_Registry"
+    ],
+    "official_website": "https://www.mancer.com",
+    "official_logo_url": null,
+    "open_weights_status": "Closed Source / API Only",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Mancer: Weaver (alpha) by mancer is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "multilingual-e5-small",
+    "provider_company": "intfloat",
+    "context_window": null,
+    "pipeline_tag": "sentence-similarity",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.intfloat.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The multilingual-e5-small by intfloat is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "whisperkit-coreml",
+    "provider_company": "argmaxinc",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.argmaxinc.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The whisperkit-coreml by argmaxinc is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3.6-35B-A3B-NVFP4",
+    "provider_company": "nvidia",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.nvidia.com",
+    "official_logo_url": "https://icon.horse/icon/nvidia.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3.6-35B-A3B-NVFP4 by nvidia is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-Embedding-0.6B",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "feature-extraction",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-Embedding-0.6B by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "z_image_turbo",
+    "provider_company": "Comfy-Org",
+    "context_window": null,
+    "pipeline_tag": null,
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.comfyorg.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The z_image_turbo by Comfy-Org is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "roberta-base",
+    "provider_company": "FacebookAI",
+    "context_window": null,
+    "pipeline_tag": "fill-mask",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.facebookai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The roberta-base by FacebookAI is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "distilbert-base-uncased",
+    "provider_company": "distilbert",
+    "context_window": null,
+    "pipeline_tag": "fill-mask",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.distilbert.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The distilbert-base-uncased by distilbert is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3.6-27B-FP8",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3.6-27B-FP8 by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "segmentation-3.0",
+    "provider_company": "pyannote",
+    "context_window": null,
+    "pipeline_tag": "voice-activity-detection",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.pyannote.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The segmentation-3.0 by pyannote is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "whisper-large-v3",
+    "provider_company": "openai",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The whisper-large-v3 by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3.5-2B",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3.5-2B by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "MiniMax-H3",
+    "provider_company": "MiniMaxAI",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-video",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.minimaxai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The MiniMax-H3 by MiniMaxAI is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-TTS-12Hz-1.7B-Base",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": null,
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-TTS-12Hz-1.7B-Base by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "bert-large-cased-finetuned-conll03-english",
+    "provider_company": "dbmdz",
+    "context_window": null,
+    "pipeline_tag": "token-classification",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.dbmdz.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The bert-large-cased-finetuned-conll03-english by dbmdz is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-VL-2B-Instruct",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-VL-2B-Instruct by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "whisper-small",
+    "provider_company": "openai",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The whisper-small by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "wav2vec2-large-xlsr-53-dutch",
+    "provider_company": "jonatasgrosman",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.jonatasgrosman.com",
+    "official_logo_url": "https://icon.horse/icon/jonatasgrosman.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The wav2vec2-large-xlsr-53-dutch by jonatasgrosman is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "wav2vec2-indonesian-javanese-sundanese",
+    "provider_company": "indonesian-nlp",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.indonesiannlp.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The wav2vec2-indonesian-javanese-sundanese by indonesian-nlp is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "stable-diffusion-xl-base-1.0",
+    "provider_company": "stabilityai",
+    "context_window": null,
+    "pipeline_tag": "text-to-image",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.stabilityai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The stable-diffusion-xl-base-1.0 by stabilityai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Wan_2.1_ComfyUI_repackaged",
+    "provider_company": "Comfy-Org",
+    "context_window": null,
+    "pipeline_tag": null,
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.comfyorg.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Wan_2.1_ComfyUI_repackaged by Comfy-Org is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-ASR-1.7B",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-ASR-1.7B by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-VL-8B-Instruct-FP8",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-VL-8B-Instruct-FP8 by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "DeepSeek-OCR",
+    "provider_company": "deepseek-ai",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.deepseekai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The DeepSeek-OCR by deepseek-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "chronos-bolt-tiny",
+    "provider_company": "autogluon",
+    "context_window": null,
+    "pipeline_tag": "time-series-forecasting",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.autogluon.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The chronos-bolt-tiny by autogluon is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "GLM-5.3-Flash",
+    "provider_company": "zai-org",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.zaiorg.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The GLM-5.3-Flash by zai-org is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "nomic-embed-text-v2-moe",
+    "provider_company": "nomic-ai",
+    "context_window": null,
+    "pipeline_tag": "sentence-similarity",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.nomicai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The nomic-embed-text-v2-moe by nomic-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "segmentation",
+    "provider_company": "pyannote",
+    "context_window": null,
+    "pipeline_tag": "voice-activity-detection",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.pyannote.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The segmentation by pyannote is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "stsb-bert-tiny-safetensors",
+    "provider_company": "sentence-transformers-testing",
+    "context_window": null,
+    "pipeline_tag": "sentence-similarity",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.sentencetransformerstesting.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The stsb-bert-tiny-safetensors by sentence-transformers-testing is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen-Image-Edit_ComfyUI",
+    "provider_company": "Comfy-Org",
+    "context_window": null,
+    "pipeline_tag": null,
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.comfyorg.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen-Image-Edit_ComfyUI by Comfy-Org is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "multilingual-e5-large-instruct",
+    "provider_company": "intfloat",
+    "context_window": null,
+    "pipeline_tag": "feature-extraction",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.intfloat.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The multilingual-e5-large-instruct by intfloat is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "e5-large-v2",
+    "provider_company": "intfloat",
+    "context_window": null,
+    "pipeline_tag": "sentence-similarity",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.intfloat.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The e5-large-v2 by intfloat is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "whisper-tiny",
+    "provider_company": "openai",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.openai.com",
+    "official_logo_url": "https://icon.horse/icon/openai.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The whisper-tiny by openai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "opus-mt-nl-en",
+    "provider_company": "Helsinki-NLP",
+    "context_window": null,
+    "pipeline_tag": "translation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.helsinkinlp.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The opus-mt-nl-en by Helsinki-NLP is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "wav2vec2-large-xlsr-53-telugu",
+    "provider_company": "anuragshas",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.anuragshas.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The wav2vec2-large-xlsr-53-telugu by anuragshas is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "filipino-wav2vec2-l-xls-r-300m-official",
+    "provider_company": "Khalsuu",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.khalsuu.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The filipino-wav2vec2-l-xls-r-300m-official by Khalsuu is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "gte-multilingual-base",
+    "provider_company": "Alibaba-NLP",
+    "context_window": null,
+    "pipeline_tag": "sentence-similarity",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.alibabanlp.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The gte-multilingual-base by Alibaba-NLP is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "BiomedNLP-BiomedBERT-base-uncased-abstract",
+    "provider_company": "microsoft",
+    "context_window": null,
+    "pipeline_tag": "fill-mask",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.microsoft.com",
+    "official_logo_url": "https://icon.horse/icon/microsoft.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The BiomedNLP-BiomedBERT-base-uncased-abstract by microsoft is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+    "provider_company": "nvidia",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.nvidia.com",
+    "official_logo_url": "https://icon.horse/icon/nvidia.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 by nvidia is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "gpt2-large",
+    "provider_company": "openai-community",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.openaicommunity.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The gpt2-large by openai-community is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "gemma-4-E2B-it-litert-lm",
+    "provider_company": "litert-community",
+    "context_window": null,
+    "pipeline_tag": null,
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.litertcommunity.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The gemma-4-E2B-it-litert-lm by litert-community is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "clipseg-rd64-refined",
+    "provider_company": "CIDAS",
+    "context_window": null,
+    "pipeline_tag": "image-segmentation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.cidas.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The clipseg-rd64-refined by CIDAS is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 58,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "wavlm-large",
+    "provider_company": "microsoft",
+    "context_window": null,
+    "pipeline_tag": "feature-extraction",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.microsoft.com",
+    "official_logo_url": "https://icon.horse/icon/microsoft.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The wavlm-large by microsoft is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "table-transformer-structure-recognition",
+    "provider_company": "microsoft",
+    "context_window": null,
+    "pipeline_tag": "object-detection",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.microsoft.com",
+    "official_logo_url": "https://icon.horse/icon/microsoft.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The table-transformer-structure-recognition by microsoft is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-Coder-30B-A3B-Instruct-FP8",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-Coder-30B-A3B-Instruct-FP8 by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Kronos-base",
+    "provider_company": "NeoQuasar",
+    "context_window": null,
+    "pipeline_tag": "time-series-forecasting",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.neoquasar.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Kronos-base by NeoQuasar is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 55,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Ornith-1.5-35B-A3B-NVFP4",
+    "provider_company": "ornith-ai",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.ornithai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Ornith-1.5-35B-A3B-NVFP4 by ornith-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "tiny-clip-text-2",
+    "provider_company": "peft-internal-testing",
+    "context_window": null,
+    "pipeline_tag": null,
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.peftinternaltesting.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The tiny-clip-text-2 by peft-internal-testing is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "chronos-bolt-tiny",
+    "provider_company": "amazon",
+    "context_window": null,
+    "pipeline_tag": "time-series-forecasting",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.amazon.com",
+    "official_logo_url": "https://icon.horse/icon/amazon.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The chronos-bolt-tiny by amazon is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "DeepSeek-V3-0324",
+    "provider_company": "deepseek-ai",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.deepseekai.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The DeepSeek-V3-0324 by deepseek-ai is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "wav2vec2-xls-r-parlaspeech-hr",
+    "provider_company": "classla",
+    "context_window": null,
+    "pipeline_tag": "automatic-speech-recognition",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.classla.com",
+    "official_logo_url": null,
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The wav2vec2-xls-r-parlaspeech-hr by classla is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 56,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen3-4B-Instruct-2507-FP8",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen3-4B-Instruct-2507-FP8 by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Qwen2-VL-7B-Instruct",
+    "provider_company": "Qwen",
+    "context_window": null,
+    "pipeline_tag": "image-text-to-text",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.qwen.com",
+    "official_logo_url": "https://icon.horse/icon/qwen.com",
+    "open_weights_status": "Open-Source (Permissive)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Qwen2-VL-7B-Instruct by Qwen is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 57,
+    "verdict": "Rejected"
+  },
+  {
+    "canonical_name": "Llama-3.3-70B-Instruct",
+    "provider_company": "meta-llama",
+    "context_window": null,
+    "pipeline_tag": "text-generation",
+    "description": "",
+    "providers": [
+      "HuggingFace"
+    ],
+    "official_website": "https://www.metallama.com",
+    "official_logo_url": "https://icon.horse/icon/metallama.com",
+    "open_weights_status": "Open-Weight (Restrictive Commercial)",
+    "last_verified_date": "2026-09-16",
+    "llm_description": "The Llama-3.3-70B-Instruct by meta-llama is an advanced AI model. It features robust architecture and broad utility for developer applications.",
+    "quality_score": 59,
+    "verdict": "Rejected"
+  }
+]
